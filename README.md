@@ -22,7 +22,7 @@ Project Goal:-
 
 How to contribute in the repository.
 
-1. Fork the repository :- [https://github.com/Yogendra0Sharma/RaktaDan](https://github.com/Yogendra0Sharma/RaktaDan)
+1. Fork the repository :- '[https://github.com/Yogendra0Sharma/RaktaDan](https://github.com/Yogendra0Sharma/RaktaDan)'
 2. clone the repository 
   `git clone https://github.com/<Your-GitHub-UserName>/RaktaDan.git`
 3. create new branch.
