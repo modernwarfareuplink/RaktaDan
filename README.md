@@ -11,7 +11,7 @@ Project Goal:-
 1. Login and Signup [local database authentication]
 2. Social login
 3. Mobile number OTP on registration.
-4. Add Member details [ name , email , mobile number,address,blood group] [donar profile]
+4. Add Member details [ name ,age,diease(if any) , email , mobile number,address,blood group] [donar profile]
 5. User can search active aviable donar near by 5KM distance.
 6. Manage Donar donation history.
 7. per donation donar get rewards and Huminity Points.
