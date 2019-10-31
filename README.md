@@ -11,13 +11,13 @@ Project Goal:-
 1. Login and Signup [local database authentication]
 2. Social login
 3. Mobile number OTP on registration.
-4. Add Member details [ name ,age,diease(if any) , email , mobile number,address,blood group] [donar profile]
-5. User can search active aviable donar near by 5KM distance.
-6. Manage Donar donation history.
-7. per donation donar get rewards and Huminity Points.
+4. Add Member details [name, age, disease(if any), email, mobile number, address, blood group] [donor profile]
+5. User can search active available donar within 5KM distance.
+6. Manage Donor donation history.
+7. Per donation donor get rewards and Humanity Points.
 8. Social donation sharing.
-9. near by Donation events and details.
-10 User can join any event and get notification/ feeds regarding the donation event.
+9. Near by Donation events and details.
+10 User can join any event and get notification feeds regarding the donation event.
 
 
 How to contribute in the repository.
